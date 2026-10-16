@@ -29,5 +29,5 @@ npm run dev
 ## Deploy on Vercel
 
 1. Import this GitHub repo
-2. Set `NEXT_PUBLIC_API_URL=https://YOUR-BACKEND.onrender.com`
+2. Set `NEXT_PUBLIC_API_URL=https://karatina-hostels.onrender.com`
 3. Deploy (no `DATABASE_URL` on the frontend)
